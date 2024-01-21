@@ -1,0 +1,17 @@
+
+.parent{
+  width: 600px;
+  background: red;
+  display: flex;
+  padding: 20px;
+  margin: 20px auto ;
+  flex-wrap: wrap;
+}
+.parent div{
+  width: 25%;
+  padding:  20px ;
+  background-color: #444;
+  color: white;
+  text-align: center;
+  
+}
